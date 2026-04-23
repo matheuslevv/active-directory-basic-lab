@@ -39,3 +39,10 @@ OUs criadas:
 ## 🎯 Objetivo
 
 Demonstrar conhecimentos básicos em administração de Active Directory.
+
+## 🖥️ Ambiente do laboratório
+
+- VirtualBox
+- Windows Server (Controlador de Domínio)
+- Windows 10 (Cliente)
+- Rede configurada manualmente
