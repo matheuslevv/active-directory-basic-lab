@@ -59,7 +59,7 @@ Configurações aplicadas:
 - Mínimo de 7 caracteres
 - Complexidade de senha habilitada
 
-![GPO](gpo.png)
+![GPO](GPO.png)
 
 ---
 
