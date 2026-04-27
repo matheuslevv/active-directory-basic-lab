@@ -37,7 +37,7 @@ Usuários criados para simulação de ambiente corporativo:
 - Maria Souza
 - João
 
-![Usuarios](active-directory-basic-lab/usuarios.png)
+![Usuarios](usuarios.png)
 
 ---
 
@@ -48,7 +48,7 @@ Grupos de segurança criados:
 - RH_users
 - TI_users
 
-![Grupos](active-directory-basic-lab/grupos.png)
+![Grupos](grupos.png)
 
 ---
 
@@ -59,7 +59,7 @@ Configurações aplicadas:
 - Mínimo de 7 caracteres
 - Complexidade de senha habilitada
 
-![GPO](active-directory-basic-lab/gpo.png)
+![GPO](gpo.png)
 
 ---
 
@@ -67,7 +67,7 @@ Configurações aplicadas:
 
 Backup configurado utilizando **System State**:
 
-![Backup](active-directory-basic-lab/backup.png)
+![Backup](backup.png)
 
 ---
 
@@ -75,7 +75,7 @@ Backup configurado utilizando **System State**:
 
 Teste de exclusão e recuperação de usuários:
 
-![Lixeira](active-directory-basic-lab/lixeira.png)
+![Lixeira](lixeira.png)
 
 ---
 
