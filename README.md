@@ -26,7 +26,7 @@ Criação de OUs para organização dos setores:
 - RH
 - Financeiro
 
-![OU](OU.png)
+[![OU](OU.png)](OU.png)
 
 ---
 
