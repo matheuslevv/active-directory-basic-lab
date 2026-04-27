@@ -1,48 +1,90 @@
-# active-directory-basic-lab
-Active Directory lab with OU, users, groups, GPO, backup and AD recycle bin.
-# Active Directory Basic Lab
+# 🧠 Active Directory Basic Lab
 
 Projeto prático de Active Directory simulando um ambiente corporativo básico.
 
-## 🧠 Conhecimentos aplicados
-
-* Criação de OU (Organizational Units)
-* Criação de usuários
-* Criação de grupos
-* Aplicação de GPO (Group Policy)
-* Configuração de backup
-* Habilitação da lixeira do Active Directory
-
-## 🏢 Estrutura do ambiente
-
-Domínio: empresa.local
-
-OUs criadas:
-
-* TI
-* RH
-* Financeiro
-
-## 🔐 Segurança
-
-* Políticas de senha
-* Restrições via GPO
-
-## 💾 Backup
-
-* Backup do tipo System State
-
-## ♻️ Lixeira do AD
-
-* Recuperação de usuários excluídos
+---
 
 ## 🎯 Objetivo
+Demonstrar conhecimentos em administração de Active Directory, incluindo estrutura organizacional, segurança e backup.
 
-Demonstrar conhecimentos básicos em administração de Active Directory.
+---
 
-## 🖥️ Ambiente do laboratório
+## 🏢 Estrutura do Ambiente
 
+- Domínio: `empresa.local`
 - VirtualBox
 - Windows Server (Controlador de Domínio)
 - Windows 10 (Cliente)
-- Rede configurada manualmente
+
+---
+
+## 🧱 Organizational Units (OU)
+
+Criação de OUs para organização dos setores:
+
+- TI
+- RH
+- Financeiro
+
+![OU](images/OU.png)
+
+---
+
+## 👤 Usuários
+
+Usuários criados para simulação de ambiente corporativo:
+
+- Maria Souza
+- João
+
+![Usuarios](images/usuarios.png)
+
+---
+
+## 👥 Grupos
+
+Grupos de segurança criados:
+
+- RH_users
+- TI_users
+
+![Grupos](images/grupos.png)
+
+---
+
+## 🔐 GPO (Políticas de Segurança)
+
+Configurações aplicadas:
+
+- Mínimo de 7 caracteres
+- Complexidade de senha habilitada
+
+![GPO](images/gpo.png)
+
+---
+
+## 💾 Backup
+
+Backup configurado utilizando **System State**:
+
+![Backup](images/backup.png)
+
+---
+
+## ♻️ Lixeira do Active Directory
+
+Teste de exclusão e recuperação de usuários:
+
+![Lixeira](images/lixeira.png)
+
+---
+
+## 🧠 Aprendizados
+
+- Estruturação de Active Directory
+- Gerenciamento de usuários e grupos
+- Aplicação de GPO
+- Configuração de backup no Windows Server
+- Recuperação de objetos no AD
+
+---
