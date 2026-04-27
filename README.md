@@ -26,7 +26,7 @@ Criação de OUs para organização dos setores:
 - RH
 - Financeiro
 
-![OU](images/OU.png)
+![OU](docs/OU.png)
 
 ---
 
@@ -37,7 +37,7 @@ Usuários criados para simulação de ambiente corporativo:
 - Maria Souza
 - João
 
-![Usuarios](images/usuarios.png)
+![Usuarios](docs/usuarios.png)
 
 ---
 
@@ -48,7 +48,7 @@ Grupos de segurança criados:
 - RH_users
 - TI_users
 
-![Grupos](images/grupos.png)
+![Grupos](docs/grupos.png)
 
 ---
 
@@ -59,7 +59,7 @@ Configurações aplicadas:
 - Mínimo de 7 caracteres
 - Complexidade de senha habilitada
 
-![GPO](images/gpo.png)
+![GPO](docs/gpo.png)
 
 ---
 
@@ -67,7 +67,7 @@ Configurações aplicadas:
 
 Backup configurado utilizando **System State**:
 
-![Backup](images/backup.png)
+![Backup](docs/backup.png)
 
 ---
 
@@ -75,7 +75,7 @@ Backup configurado utilizando **System State**:
 
 Teste de exclusão e recuperação de usuários:
 
-![Lixeira](images/lixeira.png)
+![Lixeira](docs/lixeira.png)
 
 ---
 
