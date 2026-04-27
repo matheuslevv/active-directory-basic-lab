@@ -11,7 +11,7 @@ Demonstrar conhecimentos em administração de Active Directory, incluindo estru
 
 ## 🏢 Estrutura do Ambiente
 
-- Domínio: `empresa.local`
+- Domínio: `server-lab.com`
 - VirtualBox
 - Windows Server (Controlador de Domínio)
 - Windows 10 (Cliente)
