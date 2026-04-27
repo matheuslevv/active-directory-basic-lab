@@ -26,7 +26,7 @@ Criação de OUs para organização dos setores:
 - RH
 - Financeiro
 
-![OU](docs/OU.png)
+![OU](active-directory-basic-lab/OU.png)
 
 ---
 
@@ -37,7 +37,7 @@ Usuários criados para simulação de ambiente corporativo:
 - Maria Souza
 - João
 
-![Usuarios](docs/usuarios.png)
+![Usuarios](active-directory-basic-lab/usuarios.png)
 
 ---
 
@@ -48,7 +48,7 @@ Grupos de segurança criados:
 - RH_users
 - TI_users
 
-![Grupos](docs/grupos.png)
+![Grupos](active-directory-basic-lab/grupos.png)
 
 ---
 
@@ -59,7 +59,7 @@ Configurações aplicadas:
 - Mínimo de 7 caracteres
 - Complexidade de senha habilitada
 
-![GPO](docs/gpo.png)
+![GPO](active-directory-basic-lab/gpo.png)
 
 ---
 
@@ -67,7 +67,7 @@ Configurações aplicadas:
 
 Backup configurado utilizando **System State**:
 
-![Backup](docs/backup.png)
+![Backup](active-directory-basic-lab/backup.png)
 
 ---
 
@@ -75,7 +75,7 @@ Backup configurado utilizando **System State**:
 
 Teste de exclusão e recuperação de usuários:
 
-![Lixeira](docs/lixeira.png)
+![Lixeira](active-directory-basic-lab/lixeira.png)
 
 ---
 
