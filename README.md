@@ -37,7 +37,8 @@ Usuários criados para simulação de ambiente corporativo:
 - Maria Souza
 - João
 
-![Usuario](usuario.png)
+![Usuario_1](usuario_1.png)
+![Usuario_2](usuario_2.png)
 
 ---
 
